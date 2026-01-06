@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="01_PlayerHealthState_IfElse.cpp" />
     <ClCompile Include="02_CalculateDamage_Function.cpp" />
+    <ClCompile Include="03_GameState_BooleanLogic.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
