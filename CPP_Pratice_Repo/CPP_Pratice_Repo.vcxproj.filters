@@ -27,5 +27,8 @@
     <ClCompile Include="04_HealthRegen_WhileLoop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="05_MenuRetry_DoWhile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

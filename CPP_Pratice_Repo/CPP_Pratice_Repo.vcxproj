@@ -127,6 +127,7 @@
     <ClCompile Include="02_CalculateDamage_Function.cpp" />
     <ClCompile Include="03_GameState_BooleanLogic.cpp" />
     <ClCompile Include="04_HealthRegen_WhileLoop.cpp" />
+    <ClCompile Include="05_MenuRetry_DoWhile.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
