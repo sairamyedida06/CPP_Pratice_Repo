@@ -128,6 +128,7 @@
     <ClCompile Include="03_GameState_BooleanLogic.cpp" />
     <ClCompile Include="04_HealthRegen_WhileLoop.cpp" />
     <ClCompile Include="05_MenuRetry_DoWhile.cpp" />
+    <ClCompile Include="06_EnemyIteration_ForLoop.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

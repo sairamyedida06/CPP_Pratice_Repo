@@ -30,5 +30,8 @@
     <ClCompile Include="05_MenuRetry_DoWhile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="06_EnemyIteration_ForLoop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
